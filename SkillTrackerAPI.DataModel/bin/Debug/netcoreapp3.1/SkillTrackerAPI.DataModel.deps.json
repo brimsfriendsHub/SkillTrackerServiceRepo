@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SkillTrackerAPI.DataModel/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.7.3.16"
+        },
+        "runtime": {
+          "SkillTrackerAPI.DataModel.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.7.10.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.10.1"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.7.3.16": {
+        "dependencies": {
+          "AWSSDK.Core": "3.7.10.1"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.7.3.16"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SkillTrackerAPI.DataModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.7.10.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8dLeCWqy+OKBoHA0AzFH/h3xAo5LpZ7Nxmx47eBF4z9dMeQsYiss3G4Jrgzr2aiDiab03q4wBLaRUTTNpl9AXQ==",
+      "path": "awssdk.core/3.7.10.1",
+      "hashPath": "awssdk.core.3.7.10.1.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.7.3.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PnjoVGc+y9GAaWuB40+otw1mTXaE0X+/M5SJl1F3BNBFQRyzL5+I1tGgdNfXQESmrVF+ka0YITOhGt522YBHMg==",
+      "path": "awssdk.dynamodbv2/3.7.3.16",
+      "hashPath": "awssdk.dynamodbv2.3.7.3.16.nupkg.sha512"
+    }
+  }
+}

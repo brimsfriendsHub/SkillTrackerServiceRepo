@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SkillTrackerAPI.DataModel\SkillTrackerAPI.DataModel.csproj" />
+    <ProjectReference Include="..\SkillTrackerAPI.Repository\SkillTrackerAPI.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

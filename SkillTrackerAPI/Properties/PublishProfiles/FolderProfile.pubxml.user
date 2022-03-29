@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Rajesh\FSE4\SkillTrackerServiceApp\SkillTrackerAPI\SkillTrackerAPI\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-03-29T19:01:14.3094165Z;True|2022-03-29T23:03:15.4469524+05:30;True|2022-03-29T15:25:35.6897872+05:30;True|2022-03-29T14:15:29.4332032+05:30;True|2022-03-29T13:56:42.3854511+05:30;True|2022-03-29T13:49:42.7816538+05:30;True|2022-03-29T13:47:51.4124854+05:30;</History>
+  </PropertyGroup>
+</Project>
